@@ -1,0 +1,59 @@
+.card{
+  border-radius: 14px;
+  width: 300px;
+  border:1px solid lightslategray;
+  padding: 8px;
+}
+
+.card-img{
+  height:100px;
+  border-radius: 50%;
+}
+.center{
+  text-align: center;
+}
+.links{
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  padding: 16px 30px;
+  display: inline-block;
+  border-radius: 14px;
+  font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

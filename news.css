@@ -1,0 +1,43 @@
+.bx{
+  border:none;
+  width: 500px;
+  margin: 40px auto;
+  border-radius: 14px;
+  position: relative;
+}
+
+.bx-img{
+  width: 100%;
+  border-radius: 14px;
+}
+.bx-btn{
+  border: none;
+  color: white;
+  padding: 10px 16px;
+  background-color: rgb(106, 13, 13);
+  border-radius: 14px;
+  font-size: 16px;
+}
+
+.under-bx{
+  color: white;
+  position: absolute;
+  bottom: 30px;
+  padding: 8px 8px;
+  z-index:1;
+}
+.tint{
+  background-color: rgba(0, 0, 0, 0.214);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  border-radius: 14px;
+  position: absolute;
+  z-index: 0;
+}
+
+
+
+
+
